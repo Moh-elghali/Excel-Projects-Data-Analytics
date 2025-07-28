@@ -49,19 +49,15 @@ It includes detailed information on:
 
 - Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
     - 📊 data_jobs_all
-    - 
 <img width="244" height="312" alt="2_Project_Analysis_Screenshot1" src="https://github.com/user-attachments/assets/a321608f-ee5f-4b04-ab35-2de93842e87e" />
 
     - 🛠️ data_job_skills
-    - 
 <img width="243" height="328" alt="2_Project_Analysis_Screenshot2" src="https://github.com/user-attachments/assets/2e4cd297-bc35-4e05-9aaf-0cf83df8a083" />
 
 #### 🔗 Load
 
 - Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
     - 📊 data_jobs_all
-    - 
-<img width="1918" height="742" alt="2_Project_Analysis_Screenshot6" src="https://github.com/user-attachments/assets/eb06e770-6142-4282-b1c7-7bfbc67f3cc3" />
 <img width="1916" height="649" alt="2_Project_Analysis_Screenshot3" src="https://github.com/user-attachments/assets/aa8265fe-ee04-45d8-ab15-26689c98c17c" />
 
     - 🛠️ data_job_skills
